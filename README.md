@@ -49,12 +49,7 @@ Make sure to stick around to answer some questions as well!
 ## Contributing to MkDocs
 
 The MkDocs project welcomes, and depends on, contributions from developers and
-users in the open source community. Please see the [Contributing Guide] for
-information on how you can help.
-
-## Code of Conduct
-
-Everyone interacting in the MkDocs project's codebases, issue trackers, and
+users in the open s, issue trackers, and
 discussion forums is expected to follow the [PyPA Code of Conduct].
 
 <!-- Badges -->
